@@ -144,6 +144,12 @@
       <name>oss-snapshot</name>
       <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
     </repository>
+    <repository>
+      <id>forgerock-release</id>
+      <url>http://maven.forgerock.org/repo/releases</url>
+      <releases><enabled>true</enabled></releases>
+      <snapshots><enabled>false</enabled></snapshots>
+    </repository>
   </repositories>
   <pluginRepositories>
     <pluginRepository>
