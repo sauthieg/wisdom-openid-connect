@@ -1,0 +1,21 @@
+{
+    "name": "wisdom-openid-connect",
+    "version":"1.0-SNAPSHOT",
+    "description": "Wisdom OpenID Connect Extension.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sauthieg/wisdom-openid-connect"
+    },
+
+    "author": "Guillaume Sauthier",
+    "license": {
+        "type": "CDDL",
+        "url": "https://github.com/sauthieg/wisdom-openid-connect/blob/master/LICENSE"
+    },
+    "homepage": "https://github.com/sauthieg/wisdom-openid-connect",
+    "keywords": [
+        "openid-connect",
+        "authentication",
+        "oauth2"
+    ]
+}
