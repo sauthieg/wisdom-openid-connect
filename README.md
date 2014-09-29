@@ -1,4 +1,4 @@
-Wisdom OpenID Connect
+Wisdom OpenID Connect (PoC)
 ===========================
 
 [![Build Status](https://travis-ci.org/sauthieg/wisdom-openid-connect.png)](https://travis-ci.org/sauthieg/wisdom-openid-connect)
